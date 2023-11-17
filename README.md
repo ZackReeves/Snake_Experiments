@@ -14,3 +14,7 @@ This folder contains the base snake game.
 [**Snake_nice**](Snake_nice)
 -------------------------------
 This folder contains a nice looking version of the game complete with start and pause menus and pixel art.
+
+[**Snake_go**](Snake_go)
+------------------------
+Yet another Snake clone this time in Golang.
